@@ -35,4 +35,5 @@ bower.json
 .powenv
 
 /rabbitmq-publisher/*
+/rabbitmq-consumer/*
 
